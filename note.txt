@@ -1,0 +1,14 @@
+
+color combination
+	
+
+font family
+
+
+padding top + bottom
+font size
+content spacing
+
+
+
+		xxl,xl,lg		md		sm/col
